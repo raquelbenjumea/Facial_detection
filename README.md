@@ -12,3 +12,7 @@ Then, there is a transformation of the dataset to discrete to continuous.
 
 Using this new dataset we have trained into three different models: VGG, Resnet and CNN.
 Finally we intented to create new data using GANs.
+
+Due to the size of the data we habe uploaded into this folder:
+https://drive.google.com/drive/folders/1z_N6dEdddKSVitP0Pv6EggZbxPqBRvRY?usp=drive_link
+
